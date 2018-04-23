@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfReportDesigner_local.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dxrd="http://schemas.devexpress.com/winfx/2008/xaml/reportdesigner"
+        xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon"
+        xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+        Title="End-User Report Designer for WPF">
+    <Grid>
+        <dxrd:ReportDesigner Name="reportDesigner"/>
+    </Grid>
+</Window>
