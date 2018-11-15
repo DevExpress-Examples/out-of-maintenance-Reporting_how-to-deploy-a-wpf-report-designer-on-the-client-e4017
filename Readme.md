@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LocalReportDesignerClient.cs](./CS/WpfReportDesigner_local/LocalReportDesignerClient.cs) (VB: [LocalReportDesignerClientFactory.vb](./VB/WpfReportDesigner_local/LocalReportDesignerClientFactory.vb))
+* [LocalReportDesignerClientFactory.cs](./CS/WpfReportDesigner_local/LocalReportDesignerClientFactory.cs) (VB: [LocalReportDesignerClientFactory.vb](./VB/WpfReportDesigner_local/LocalReportDesignerClientFactory.vb))
+* [LocalReportService.cs](./CS/WpfReportDesigner_local/LocalReportService.cs) (VB: [LocalReportServiceClient.vb](./VB/WpfReportDesigner_local/LocalReportServiceClient.vb))
+* [LocalReportServiceClient.cs](./CS/WpfReportDesigner_local/LocalReportServiceClient.cs) (VB: [LocalReportServiceClient.vb](./VB/WpfReportDesigner_local/LocalReportServiceClient.vb))
+* [LocalReportWizardServiceClient.cs](./CS/WpfReportDesigner_local/LocalReportWizardServiceClient.cs) (VB: [LocalReportWizardServiceClient.vb](./VB/WpfReportDesigner_local/LocalReportWizardServiceClient.vb))
+* [MainWindow.xaml](./CS/WpfReportDesigner_local/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfReportDesigner_local/MainWindow.xaml.vb))
+* **[MainWindow.xaml.cs](./CS/WpfReportDesigner_local/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfReportDesigner_local/MainWindow.xaml.vb))**
+<!-- default file list end -->
 # How to deploy a WPF Report Designer on the client
 
 
