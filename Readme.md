@@ -7,7 +7,7 @@
 * [LocalReportServiceClient.cs](./CS/WpfReportDesigner_local/LocalReportServiceClient.cs) (VB: [LocalReportServiceClient.vb](./VB/WpfReportDesigner_local/LocalReportServiceClient.vb))
 * [LocalReportWizardServiceClient.cs](./CS/WpfReportDesigner_local/LocalReportWizardServiceClient.cs) (VB: [LocalReportWizardServiceClient.vb](./VB/WpfReportDesigner_local/LocalReportWizardServiceClient.vb))
 * [LocalReportWizardServiceClientFactory.cs](./CS/WpfReportDesigner_local/LocalReportWizardServiceClientFactory.cs) (VB: [LocalReportWizardServiceClientFactory.vb](./VB/WpfReportDesigner_local/LocalReportWizardServiceClientFactory.vb))
-* [MainWindow.xaml](./CS/WpfReportDesigner_local/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfReportDesigner_local/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/WpfReportDesigner_local/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfReportDesigner_local/MainWindow.xaml))
 * **[MainWindow.xaml.cs](./CS/WpfReportDesigner_local/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfReportDesigner_local/MainWindow.xaml.vb))**
 <!-- default file list end -->
 # How to deploy a WPF Report Designer on the client
